@@ -87,6 +87,9 @@ a{
 .a h3{
 	text-transform: uppercase;
 }
+.a img{
+	max-height: 300px;
+}
 .b{
 	margin-top: 3rem;
 }
@@ -239,6 +242,11 @@ textarea{
 }
 section h4{
 	margin-top: 3rem;
+}
+
+section img{
+	max-height: 200px;
+	max-width: 500px;
 }
 
 /* MEDIA SCREEN */
